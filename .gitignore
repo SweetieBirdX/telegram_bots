@@ -1,0 +1,19 @@
+# Critical configuration files
+**/.env
+
+# Captured media and logs
+**/captures/
+**/*.log
+**/security_log.txt
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
