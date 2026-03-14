@@ -1,0 +1,4 @@
+.env
+captures/
+security_log.txt
+__pycache__/
